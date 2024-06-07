@@ -1,8 +1,3 @@
-JSL09 Loom Video Link: [https://www.loom.com/share/4f0726e5a3bd4743b9f9da43be0ccd34?sid=099de4b8-0578-454f-8ee8-f1eb8250b834]
-
-
-
-
 # [JSL09] Submission: Personal Dashboard Chrome Extension
 
 You will:
